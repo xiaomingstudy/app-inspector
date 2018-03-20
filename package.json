@@ -74,6 +74,6 @@
     "ios-simulator": "*",
     "macaca-adb": "*",
     "uiautomatorwd": "*",
-    "xctestwd": "*"
+    "xctestwd": "1.3.13"
   }
 }
